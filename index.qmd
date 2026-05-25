@@ -1,0 +1,80 @@
+---
+title: " "
+---
+:::::: {style="text-align: center;"}
+## UNIVERSIDAD NACIONAL TORIBIO RODRÍGUEZ DE MENDOZA DE AMAZONAS
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/95/Logo-2016-solo-ok.png){width="4.8cm"}
+
+## FACULTAD DE INGENIERÍA Y CIENCIAS AGRARIAS
+
+ESCUELA PROFESIONAL DE INGENIERÍA AGRÓNOMA
+
+Evaluación del proceso germinativo en semillas de tamarindo (*Tamarindus indica*) mediante métodos de escarificación
+
+<br>
+
+::: {style="text-align: center;"}
+# INTEGRANTES
+:::
+
+<br>
+
+| Integrante                      | \% de participación |
+|---------------------------------|---------------------|
+| Huaman Rimarachin Milver        | 100%                |
+| Neyra Alarcon Shirley Milagros  | 100%                |
+| Rivera Jimenez Yanet            | 100%                |
+| Sanchez Alvarado Ruben          | 100%                |
+| Visalot Chapa Jhener Ivan       | %                |
+
+::: {style="width: 60%; margin: auto; background-color: #f3f3f3; padding: 20px; border-radius: 12px; text-align: center; font-size: 18px;"}
+:::
+
+<br>
+
+::: {style="text-align: center;"}
+## DOCENTE
+
+Dr. Lozano Isla, Flavio
+
+<br>
+
+## CURSO
+
+Producción y Tecnología de Semillas
+
+<br>
+
+## CICLO ACADÉMICO
+
+2026 - I
+:::
+
+------------------------------------------------------------------------
+
+## Resumen 
+
+::: {style="text-align: justify;"}
+
+
+Mediante el desarrollo del experimento se tuvo como finalidad evaluar el proceso germinativo en semillas de tamarindo (*Tamarindus indica*) mediante métodos de escarificación. Para ello, se empleó un Diseño de Bloques Completamente al Azar (DBCA) con cuatro tratamientos y cuatro repeticiones .
+
+Los tratamientos evaluados fueron: T0: Control (sin escarificación), T1: Mecánica :  Lijado superficial del tegumento, T2:Térmica (inmersión en agua caliente) y T3:Corte mecánico (incisión con bisturí).
+
+Cada unidad experimental estuvo constituida por 25 semillas,registrándose diariamente el número de semillas germinadas durante el periodo de evaluación.
+
+![](images/03.jfif){width="584"}
+
+------------------------------------------------------------------------
+
+## Libro de campo
+
+------------------------------------------------------------------------
+
+<https://docs.google.com/spreadsheets/d/1DxRhmFtBscdZkNRlOHaP2ZLf2yYz6IKwg1cF9elXY84/edit?gid=1390923633#gid=1390923633>
+
+## Etiquetas
+
+<https://drive.google.com/file/d/1y0ljjqbug18bJOdPyJ8jIsNkPSbCv5sc/view?usp=sharing>
+

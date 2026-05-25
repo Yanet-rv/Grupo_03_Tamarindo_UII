@@ -1,0 +1,73 @@
+---
+title: "Análisis de datos"
+format:
+  html:
+    toc: true
+    toc-expand: true
+    toc-depth: 4
+    toc-location: left
+    number-sections: true
+    self-contained: true
+    code-fold: true
+    output-file: "ESM"
+editor_options: 
+  chunk_output_type: console
+execute: 
+  warning: false
+  message: false
+  echo: true
+---
+
+# Project Setup
+
+```{r}
+#| label:  setup
+
+source('https://inkaverse.com/setup.r')
+```
+
+# Data import
+
+```{r}
+gs <- "https://docs.google.com/spreadsheets/d/1DxRhmFtBscdZkNRlOHaP2ZLf2yYz6IKwg1cF9elXY84/edit?gid=1390923633#gid=1390923633" %>% 
+  as_sheets_id()
+
+fb <- gs %>% 
+  range_read(ss = .,sheet = "fb")
+```
+
+# Research Objectives
+
+Calcula los índices de germinación y realiza las pruebas ANOVA y de comparación de medias.
+
+
+# Modelo estadistico
+
+Diseño en Bloques Completamente al Azar (DBCA)
+
+$$ Yij = u + escarificacion + bloque + Eij$$
+
+# Anova
+
+```{r}
+library(GerminaR)
+library(tidyverse)
+library(rstatix)
+
+fb %>%
+  mutate(
+    total_germination = rowSums(select(., starts_with("ger_"))),
+    germination_index = (total_germination / seeds) * 100
+  )
+
+```
+
+
+
+
+
+
+
+
+
+

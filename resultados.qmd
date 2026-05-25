@@ -1,0 +1,14 @@
+---
+title: "Resultados y discusiones"
+format: html
+---
+## Resultados
+
+Por cada resultado agregar un subtítulo, identificar el motivo del porque se hizo
+- Justificación del método (¿motivación?)
+- Descripción del resultado
+
+
+## Discusiones 
+
+.

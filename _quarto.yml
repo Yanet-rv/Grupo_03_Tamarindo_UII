@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Germinación de Zanahoria"
+
+  navbar:
+    background: "#153768"
+    align: center
+    title: false
+    collapse-below: lg
+
+    left:
+      - href: index.qmd
+        icon: house-door-fill
+      - text: "Introducción"
+        href: introduccion.qmd
+      - text: "Materiales y Métodos"
+        href: metodologia.qmd
+      - text: "Análisis de datos"
+        href: analisis.qmd
+      - text: "Resultados y discusiones"
+        href: resultados.qmd
+      - text: "Conclusiones"
+        href: conclusiones.qmd
+      - text: "Referencias"
+        href: referencias.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/7342664321-bot/Escarificaci-n_semillas_soya
+        aria-label: GitHub
+
+  page-footer:
+    left: "Página creada con Quarto"
+    background: "#153768"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    number-sections: false
+    code-copy: true

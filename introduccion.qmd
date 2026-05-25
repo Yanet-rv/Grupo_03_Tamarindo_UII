@@ -1,0 +1,16 @@
+---
+title: "Introducción"
+format: html
+---
+
+Aplicando el método del embudo: De lo general a lo específico: en 3 parrafos
+Parrafo 1. Importancia del cultivo
+Parrafo 2. Sobre la germinación del cultivo, quizá tiene problemas para germinar, periodo de latencia. Importancia de los métodos de escarificación
+
+## Objetivos
+ 
+Parrafo 3. Mediante el desarrollo del siguiente trabajo se han considerado tres objetivos.
+Objetivo 1. Evaluar el efecto de los tres métodos de escarificación sobre la germinación de semillas de tamarindo (Tamarindus indica) con dormancia física
+Objetivo 2. Identificar el método más eficiente para romper la dormancia en tamarindo (Tamarindus indica). 
+Objetivo 3. Evaluar la latencia de la semillas de Tamarindo (Tamarindus indica), mediante tres métodos de escarificación.
+O Comparar la longitud de la radícula en plántulas de Tamarindus indica obtenidas mediante tres métodos de escarificación. 
