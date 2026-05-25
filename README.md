@@ -7,7 +7,7 @@ Lista de autores
 
 ## Base de datos
 
-Enlace a Google Sheets: https://[(https://docs.google.com/spreadsheets/d/1QziIXGOwb8cl3GaARJq6Ez6aU7vND_UHKJnFcAKx0VI/edit?gid=800931632#gid=800931632)]
+Enlace a Google Sheets: https://[(https://docs.google.com/spreadsheets/d/1DxRhmFtBscdZkNRlOHaP2ZLf2yYz6IKwg1cF9elXY84/edit?gid=1390923633#gid=1390923633))]
 
 ## Presentación
 
