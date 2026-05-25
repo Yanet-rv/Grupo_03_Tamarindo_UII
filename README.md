@@ -14,7 +14,7 @@ Author List
 
 ## Presentation
 
-> Google page web link: https://eoct-234.github.io/Escarificaci-n_U2/
+> Google page web link: (https://github.com/Yanet-rv/Grupo_03_Tamarindo_UII)
 ---
 
 ⇒ *SciHub*: research pipeline repository
